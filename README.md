@@ -1,4 +1,5 @@
 # A feladatok mind Python kódban készültek
+# NZP59Z
 # 1.3 feladat
 
 total_outcomes = 6 * 6
